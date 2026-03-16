@@ -34,16 +34,6 @@ We believe that organizations equipped with the right intelligence will make bet
 
 ---
 
-## 📂 Repositories
-
-Our open repositories include tools, SDKs, and resources that support the sustainability developer ecosystem:
-
-| Repository | Description |
-|------------|-------------|
-| `.github`  | Organization-wide GitHub configuration, community health files, and templates |
-
----
-
 ## 🤝 Get Involved
 
 We welcome contributions, partnerships, and ideas from the sustainability and developer communities.
