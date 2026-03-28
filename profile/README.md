@@ -2,7 +2,7 @@
 
 > **Sustainability Intelligence. Powered by Data.**
 
-SustinereIQ is an AI-driven sustainability intelligence platform that helps organizations measure, manage, and improve their environmental, social, and governance (ESG) performance. We turn complex sustainability data into actionable insights — enabling smarter decisions for a more sustainable future.
+SustinereIQ is a waste-led, evidence-based sustainability intelligence infrastructure that transforms waste tonnage and disposal data into clear, standardised sustainability reports. It provides organisations and governments with a structured, credible, and measurable understanding of environmental performance based on real operational data.
 
 ---
 
