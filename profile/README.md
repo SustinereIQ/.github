@@ -8,8 +8,8 @@ SustinereIQ is a waste-led, evidence-based sustainability intelligence infrastru
 
 ## 🚀 What We Do
 
-- **ESG Analytics** — Collect, normalize, and analyze ESG data across your entire value chain.
-- **Carbon Footprint Tracking** — Monitor Scope 1, 2, and 3 emissions with precision and transparency.
+- **Data Analytics** — Collect, normalize, and analyze waste data across your entire value chain.
+- **Carbon Footprint Tracking** — Monitor Scope 3 emissions with precision and transparency.
 - **Regulatory Compliance** — Stay ahead of evolving sustainability reporting standards (GRI, TCFD, CSRD, SEC Climate Rule).
 - **AI-Powered Insights** — Surface risks, opportunities, and benchmarks through intelligent data models.
 - **Stakeholder Reporting** — Generate audit-ready sustainability reports for investors, regulators, and customers.
